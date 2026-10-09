@@ -1,0 +1,6 @@
+{
+  "name": "Neon Overdrive: Cyber Dodger",
+  "description": "A high-octane 2D retro-futuristic cyberpunk arcade space dodger featuring HTML5 canvas, Web Audio sound synthesis, dynamic particle physics, responsive touch and keyboard controls, and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
